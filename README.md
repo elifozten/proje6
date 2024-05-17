@@ -11,3 +11,17 @@
 ![proje6_7](https://github.com/elifozten/proje6/assets/148040261/3e9506f6-c393-4f7a-97af-fcb7612b344c)
 ![proje6_8](https://github.com/elifozten/proje6/assets/148040261/84acbe5a-279d-445f-a4f0-406adac57e7e)
 
+## Bu sistem 8 ayrı pencereden oluşmaktadır;
+* Kullanıcı Giriş Penceresi: Kullanıcıların kayıt olduğu, işlem yapmak için giriş yapabildiği ve kullanım hakkında yardım alabildikleri penceredir.
+* Kullanım Kılavuzu Penceresi: Kullanıcıların yardım almak için kullanıcı giriş penceresinde bulunan buton ile birlikte girmiş olduğu penceredir.
+* Ana Sayfa Penceresi: Kullanıcı giriş yapdıktan sonra karşısına çıkan işlem yapma sayfasıdır.
+* Tarif Ekle Penceresi: Kullanıcının başkaları için tarif paylaştığı penceredir.
+* Tarifleri Görüntüle Penceresi: Mevcut tariflerin detaylıca listelendiği ve kullanıcının tarif seçerek favorilerim listesine ekleyebildiği penceredir.
+* Malzemeleri Görüntüle Penceresi: Tarif adını seçerek gerekli malzemelerin görüntülendiği penceredir.
+* Favoriler Listem Penceresi: Tarifleri görüntüle penceresinde seçilip, favorilenen tariflerin listelendiği penceredir.
+* Tarif Değerlendir Penceresi: Listelenen tarif adlarını seçerek 1-10 arasında değerlendirildiği ve değerlendirme ortalamalarının görüntülendiği penceredir.
+
+## Gereksinimler:
+* Python
+* SQLite3
+* Python-Tkinter Kütüphanesi
